@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Quick Colour Edit Updates</title>
+    <link>https://github.com/ArthurJamesBarker/Quick-Edit-Releases</link>
+    <description>Updates for Quick Colour Edit</description>
+    <language>en</language>
+  </channel>
+</rss>
