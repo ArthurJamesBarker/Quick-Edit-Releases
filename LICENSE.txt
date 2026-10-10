@@ -1,0 +1,37 @@
+QUICK COLOUR EDIT — END USER LICENCE AGREEMENT
+Version 1 · Copyright © 2026 Arthur Barker. All rights reserved.
+
+Please read this agreement before using Quick Colour Edit (the "Software"). By clicking "Agree" or by installing or using the Software, you agree to these terms. If you do not agree, do not use the Software.
+
+1. LICENCE
+Arthur Barker ("we", "us") grants you a limited, non-exclusive, non-transferable licence to install and use the Software on computers you own or control. You may make copies only as needed for archival or backup purposes, as permitted by law. You have no other right to reproduce the Software, and no right to distribute it.
+
+2. RESTRICTIONS
+You must not:
+(a) distribute, sell, sublicense, rent, loan, lease or otherwise transfer the Software, or any part of it, to anyone else;
+(b) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Software, or the source code, file formats, protocols or products of our suppliers contained in or used by it, except to the extent that applicable law expressly permits this despite this restriction;
+(c) remove, alter or obscure any copyright, trademark or other proprietary notice in the Software;
+(d) use the Software in breach of any applicable law, including export control laws.
+
+3. THIRD-PARTY SOFTWARE
+The Software includes components licensed from third parties, including the Blackmagic RAW SDK runtime from Blackmagic Design Pty. Ltd. and the R3D SDK runtime from RED Digital Cinema (together with our other suppliers, "our suppliers"). These components are sublicensed to you only for use with the Software. If you need any other software from RED Digital Cinema (including other RED software or firmware) to use the Software, you must obtain that software under a valid licence and use it in accordance with the end user licence agreement that accompanies it. Notices for third-party components are listed in Third-Party Notices (Quick Colour Edit menu).
+
+4. OWNERSHIP
+We and our suppliers retain all right, title and interest, including all intellectual property rights, in and to the Software and all copies of it. The Software is licensed, not sold. All rights not expressly granted to you are reserved.
+
+5. DISCLAIMER OF WARRANTIES
+To the maximum extent permitted by law, the Software is provided "AS IS", without warranty of any kind. WE AND OUR SUPPLIERS MAKE NO WARRANTIES, CONDITIONS, REPRESENTATIONS OR TERMS, EXPRESS OR IMPLIED, WHETHER BY STATUTE, COMMON LAW, CUSTOM, USAGE OR OTHERWISE, AS TO THE SOFTWARE OR ANY COMPONENT OF IT, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT OF THIRD-PARTY RIGHTS, INTEGRATION, MERCHANTABILITY, SATISFACTORY QUALITY OR FITNESS FOR ANY PARTICULAR PURPOSE. We and our suppliers do not warrant the performance or results you may obtain by using the Software, or that it will be error-free or uninterrupted. Our suppliers disclaim all warranties, conditions, representations and terms with respect to the Software.
+
+6. LIMITATION OF LIABILITY
+To the maximum extent permitted by law, IN NO EVENT WILL WE OR OUR SUPPLIERS BE LIABLE TO YOU FOR ANY DAMAGES, CLAIMS OR COSTS WHATSOEVER ARISING FROM THIS AGREEMENT OR YOUR USE OF THE SOFTWARE OR ANY COMPONENT OF IT, INCLUDING ANY CONSEQUENTIAL, INDIRECT OR INCIDENTAL DAMAGES, LOSS OF DATA, OR LOST PROFITS OR SAVINGS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH LOSS, DAMAGES, CLAIMS OR COSTS, OR FOR ANY CLAIM BY A THIRD PARTY. Our suppliers' aggregate liability to you shall in no event exceed fifty U.S. dollars (US$50). Nothing in this agreement limits liability for death or personal injury caused by negligence, for fraud, or for anything else that cannot be limited or excluded by law, and nothing in it affects your statutory rights as a consumer.
+
+7. TERMINATION
+This agreement is effective until terminated. It ends automatically if you fail to comply with it. When it ends, you must stop using the Software and delete all copies.
+
+8. UPDATES
+The Software can check for updates when you ask it to. Updates are covered by this agreement unless they come with different terms.
+
+9. GENERAL
+This agreement is governed by the laws of England and Wales, and the courts of England and Wales have exclusive jurisdiction, except where the law of your country of residence requires otherwise. If any part of this agreement is unenforceable, the rest remains in effect. This is the entire agreement between you and us about the Software.
+
+Not affiliated with, or endorsed or certified by, Blackmagic Design or RED Digital Cinema. Blackmagic RAW is a trademark of Blackmagic Design Pty. Ltd.; RED and R3D are trademarks of RED.COM, Inc.
