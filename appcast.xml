@@ -3,13 +3,13 @@
     <channel>
         <title>Quick Colour Edit</title>
         <item>
-            <title>0.13.0</title>
-            <pubDate>Fri, 16 Oct 2026 11:40:38 +0000</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <title>0.14.0</title>
+            <pubDate>Fri, 16 Oct 2026 14:12:36 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ArthurJamesBarker/Quick-Edit-Releases/releases/download/v0.13.0/Quick-Colour-Edit-0.13.0.zip" length="20353603" type="application/octet-stream" sparkle:edSignature="xC31iZ4BNWWm48IP4sOE6Os11xgfGn5ph6xs2iiMJVol4NnElxaoPOT8nyW/0j/lUzqXReqzNnottUSnx9BrAw=="/>
+            <enclosure url="https://github.com/ArthurJamesBarker/Quick-Edit-Releases/releases/download/v0.14.0/Quick-Colour-Edit-0.14.0.zip" length="20415766" type="application/octet-stream" sparkle:edSignature="rbb7TwoAGpC+a7zTn6+wMabDZMDfjyYk7b8bByTKTGevSuEwxlShHh4J14mVI+wr4Mkt6g8Fow+RTDQ46aRjDQ=="/>
         </item>
     </channel>
 </rss>
