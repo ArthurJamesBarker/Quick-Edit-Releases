@@ -3,12 +3,12 @@
     <channel>
         <title>Gradeplayer</title>
         <item>
-            <title>0.22.0</title>
-            <pubDate>Wed, 18 Nov 2026 12:06:37 +0000</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+            <title>0.23.0</title>
+            <pubDate>Fri, 20 Nov 2026 20:38:19 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ArthurJamesBarker/Quick-Edit-Releases/releases/download/v0.22.0/Gradeplayer-0.22.0.zip" length="21702665" type="application/octet-stream" sparkle:edSignature="97tsG95lOzbRTbMZk4fFsKFuAiFajtIWytkL//R+GHCJ1Z3cRwCGiWYLU3qQWU+oYw/oK3s5lS6aAeJ64x6yCw=="/>
+            <enclosure url="https://github.com/ArthurJamesBarker/Quick-Edit-Releases/releases/download/v0.23.0/Gradeplayer-0.23.0.zip" length="25953903" type="application/octet-stream" sparkle:edSignature="M7+3KcEDwZWn3WAsq//XiwRnlIylcOIVpt5hcKJDrUbxwZ1I24whJGIik7QAQJ58Kt8z2GenUAAq+YmnEC0/Dw=="/>
         </item>
     </channel>
 </rss>
